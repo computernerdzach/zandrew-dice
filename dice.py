@@ -9,7 +9,3 @@ class Dice(object):
         Roll the dice
         :return: integer
         """
-
-
-def main():
-    pass
